@@ -9,6 +9,9 @@ Solutions for codember challenges: https://codember.dev/
 └── src
     ├── c1
     │   ├── c1.py
+    │   └── input.txt
+    └── c2  
+        ├── c2.py
         └── input.txt
 ```
 
