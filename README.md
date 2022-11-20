@@ -10,8 +10,11 @@ Solutions for codember challenges: https://codember.dev/
     ├── c1
     │   ├── c1.py
     │   └── input.txt
-    └── c2  
-        ├── c2.py
+    ├── c2  
+    │   ├── c2.py
+    │   └── input.txt
+    └── c3
+        ├── c3.py
         └── input.txt
 ```
 
